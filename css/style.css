@@ -203,11 +203,6 @@ body {
   color: var(--lavender-deep);
 }
 
-.text-gradient {
-  background: linear-gradient(125deg, var(--blue-primary) 0%, var(--peach-accent) 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
 
 .hero-subtitle {
   font-size: 1.18rem;
